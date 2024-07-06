@@ -1,5 +1,7 @@
 Main Role: AI, Presentation, Leader
+
 #--------------#
+
 This is the code for the service launched by the team "E.C.WALL," consisting of the members of GDSC-GIST 2nd, for the GDSC Solution Challenge 2023. 
 *GDSC: Google Developer Students Club
 *GIST: Gwangju Institute of Science and Technology
